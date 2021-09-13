@@ -25,7 +25,7 @@
 .navbar-logo {
   color: #fcf3eb;
   justify-self: start;
-  margin-left: 20px;
+  margin-left: 0px;
   cursor: pointer;
   text-decoration: none;
   font-size: 2rem;
@@ -148,14 +148,14 @@
     text-decoration: none;
     font-size: 1.5rem;
     background-color: transparent;
-    color: #fcf3eb;
+    color: #232323;
     padding: 14px 20px;
-    border: 1px solid #fcf3eb;
+    border: 1px solid #232323;
     transition: all 0.3s ease-out;
   }
 
   .nav-links-mobile:hover {
-    background: #fcf3eb;
+    background: #ffa131;
     color: #232323;
     transition: 250ms;
   }
